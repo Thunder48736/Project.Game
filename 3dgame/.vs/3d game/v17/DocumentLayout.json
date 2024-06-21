@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thunder\\3d game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F62A70D-FB93-60E0-0CDF-D3359832889F}|Assembly-CSharp.csproj|c:\\users\\thunder\\3d game\\assets\\newbehaviourscript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F62A70D-FB93-60E0-0CDF-D3359832889F}|Assembly-CSharp.csproj|solutionrelative:assets\\newbehaviourscript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thunder\\3d game\\Assets\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewBehaviourScript1.cs",
+              "DocumentMoniker": "C:\\Users\\Thunder\\3d game\\Assets\\NewBehaviourScript1.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript1.cs",
+              "ToolTip": "C:\\Users\\Thunder\\3d game\\Assets\\NewBehaviourScript1.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:29:59.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\Thunder\\3d game\\Assets\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\Thunder\\3d game\\Assets\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:28:58.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
